@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Yeasin Arafat and I'm  practising backend development</p>
+<h1 align="left">My name is Yeasin Arafat and I'm  practising backend development</h1>
 
 ###
 
-<h2 align="left">I build websites that don’t just look good—they perform. Fast, responsive, and built with clean code, my work is all about function with flair. I don’t follow t</h2>
+<h2 align="left">I build websites that don’t just look good—they perform. Fast, responsive, and built with clean code, my work is all about function with flair. I don’t follow it</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning C C++, HTML, PYTHON, JS, CSS<br>🎯 Goals: To be a Professional Web Developer</p>
+<p align="left">✨ Passionate Person<br>📚 I'm currently Practising  C, C++, HTML, PYTHON, JS, CSS<br>🎯 Goals: To be a Professional Web Developer</p>
 
 ###
 
@@ -51,11 +51,10 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
 ###
@@ -66,6 +65,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yeasinoncode98/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216"  />
 </div>
 
 ###
