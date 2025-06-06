@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate Person<br>📚 I'm currently Practising  C, C++, HTML, PYTHON, JS, CSS<br> 🎯 Goals: To be a Professional Web Developer <br> ➡ 2x Red Card Holder From Bangladesh Army and AirForce <br></p>
+<p align="left">✨ Passionate Person<br>📚 I'm currently Practising  C, C++, HTML, PYTHON, JS, CSS<br> 🎯 Goals: To be a Professional Web Developer <br> ➡ 2x Red Card Holder From Bangladesh Army and AirForce <br>♾️ Problem Solver <br></p>
 
 ###
 
