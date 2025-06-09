@@ -1,4 +1,7 @@
-<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.imgur.com/vFo4XbX.png" alt="Yeasin Arafat Banner" width="800" />
+</p>
+
 <p align="center">
   <img src="https://github.com/Yeasinoncode98/Yeasinoncode98/blob/main/assets/banner.png" alt="banner" />
 </p>
