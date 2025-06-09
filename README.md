@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
-<h3 align="center">Practicing Programmer | Web Designer | Bug-Solver| Speed Learner</h3>
+<h3 align="center">Practicing Programmer | Web Developer | Bug-Solver| Speed Learner</h3>
 
 <div align="center">
 
