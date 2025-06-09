@@ -9,7 +9,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
 
-Skills: C / C++ / HTML / CSS / JavaScript / Git / GitHub / VSCode / Codeblocks
+Owner & CEO of RedWine.com.
 
 </div>
 
