@@ -55,10 +55,21 @@ Skills: C / C++ / HTML / CSS / JavaScript / Git / GitHub / VSCode / Codeblocks
 
 <p align="center">
   <a href="https://github.com/Yeasinoncode98">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yeasinoncode98&show_icons=true&count_private=true&theme=dark" alt="Yeasin's GitHub Stats" width="49.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeasinoncode98&layout=compact&theme=dark" alt="Top Languages" width="49.5%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeasinoncode98&theme=radical" alt="Yeasin's GitHub Profile Details"/>
   </a>
 </p>
+
+<a href="https://github.com/Yeasinoncode98">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Yeasinoncode98&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+<a href="https://github.com/Yeasinoncode98">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Yeasinoncode98&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+
+<!-- Add Activity Graph below these -->
+
+![Yeasin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeasinoncode98&custom_title=Yeasin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 ---
 
