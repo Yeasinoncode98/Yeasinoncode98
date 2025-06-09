@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yeasinoncode98/Yeasinoncode98/main/assets/Yeasin_Arafat_GitHub_Banner.png" alt="Yeasin Arafat Banner" width="800" />
+  <img src="https://i.ibb.co/rfM8knqP/Whats-App-Image-2025-06-10-at-03-42-24-c4b60197.jpg" alt="Yeasin Arafat Banner" width="800" />
 </p>
+
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
