@@ -17,7 +17,7 @@ Owner & CEO of RedWine.com.
 
 - 🌱 I’m currently learning new web technologies and problem-solving skills
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yeasinoncode98](https://github.com/Yeasinoncode98)
+- 👨‍💻 All of my projects are available at [https://github.com/Yeasinoncode98/Projects)
 
 - 💬 Ask me about *C, C++, JavaScript, HTML, CSS*
 
