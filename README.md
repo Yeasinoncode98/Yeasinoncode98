@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+I+am+Yeasin+Arafat.+I+hope+your+day+is+going+well.+Have+a+coffee+and+enjoy+my+profile.&center=true&width=700&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+I+am+Yeasin+Arafat.&center=true&width=500&height=50" />
+</p>
+<p align="center" style="font-size:18px; margin-top:10px;">
+  I hope your day is going well. Have a coffee and enjoy my profile ☕😊
 </p>
 
 
