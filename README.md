@@ -5,9 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+I+am+Yeasin+Arafat.&center=true&width=500&height=50" />
 </p>
-<p align="center" style="font-size:18px; margin-top:10px;">
-  I hope your day is going well. Have a coffee and enjoy my profile ☕😊
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+hope+your+day+is+going+well.+Have+a+coffee+and+enjoy+my+profile+%E2%98%95%F0%9F%98%8A.&center=true&width=700&height=50" />
 </p>
+
 
 
 <h3 align="center">Practicing Programmer | Web Developer | Bug-Solver| Speed Learner</h3>
