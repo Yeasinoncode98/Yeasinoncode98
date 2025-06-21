@@ -2,7 +2,10 @@
   <img src="https://i.ibb.co/rfM8knqP/Whats-App-Image-2025-06-10-at-03-42-24-c4b60197.jpg" alt="Yeasin Arafat Banner" width="800" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+I+am+Yeasin+Arafat.&center=true&width=500&height=50" />
+</p>
+
 <h3 align="center">Practicing Programmer | Web Developer | Bug-Solver| Speed Learner</h3>
 
 <div align="center">
