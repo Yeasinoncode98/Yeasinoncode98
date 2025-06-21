@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+I+am+Yeasin+Arafat.&center=true&width=500&height=50" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+hope+your+day+is+going+well.+Have+a+coffee+and+enjoy+my+profile+%E2%98%95%F0%9F%98%8A.&center=true&width=700&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20hope%20your%20day%20is%20going%20well.%20Have%20a%20coffee%20and%20enjoy%20my%20profile%20%E2%98%95%F0%9F%98%8A.&center=true&width=700&height=50" />
 </p>
+
 
 
 
