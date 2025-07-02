@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">Practicing Programmer | Web Developer | Bug-Solver| Speed Learner</h3>
+<h3 align="center">Practicing Programmer |Frontend Web Developer | Bug-Solver| Speed Learner</h3>
 
 <div align="center">
 
