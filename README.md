@@ -89,7 +89,9 @@ Owner & CEO of RedWine.com.
   <a href="https://www.facebook.com/share/1EKw8yU3LC/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:devoncode98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Yeasinoncode98" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat;&center=true&width=900&height=50&color=FF0000&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
 </p>
+
 
