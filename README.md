@@ -30,7 +30,7 @@ Owner & CEO of RedWine.com.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yeasinoncode98/Projects)
 
-- 💬 Ask me about *C, C++, JavaScript, HTML, CSS*
+- 💬 Ask me about *C, C++, JavaScript, HTML, CSS, EXPRESS JS, NODE JS, REACT JS*
 
 - 📫 How to reach me: devoncode98@gmail.com
 
