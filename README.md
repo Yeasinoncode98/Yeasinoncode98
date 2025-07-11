@@ -62,7 +62,8 @@ Owner & CEO of RedWine.com.
 
 ## Featured Project
 
-[![Animated Login Page](https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Projects&title=Animated%20LoginPage&theme=dark)](https://github.com/Yeasinoncode98/Projects/tree/main/03_Animated_LoginPage)
+[![Projects Showcase](https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Projects-Showcase&theme=dark)](https://github.com/Yeasinoncode98/Projects-Showcase)
+
 
 ---
 
