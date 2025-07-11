@@ -34,9 +34,10 @@ Owner & CEO of RedWine.com.
 
 - 📫 How to reach me: devoncode98@gmail.com
 
+- 💼 See me on [Portfolio](https://mohonsharif.com/yeasinarafat-portfolio)
+
 - 📄 Know more about me: [My Website](https://redwine1207.my.canva.site/)
 
-- 💼[Portfolio](https://mohonsharif.com/yeasinarafat-portfolio)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
