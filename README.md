@@ -71,13 +71,14 @@ Owner & CEO of RedWine.com.
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ## Design Apps I Use:
 
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://img.shields.io/badge/Design-424242?style=for-the-badge" alt="Design" /><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma" alt="Figma" /><img src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator" alt="Illustrator" /><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop" alt="Photoshop" />
 
 
 
