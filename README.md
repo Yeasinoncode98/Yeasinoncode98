@@ -63,7 +63,7 @@ Owner & CEO of RedWine.com.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-## Technologies I Use
+## Technologies I Use:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,6 +71,12 @@ Owner & CEO of RedWine.com.
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+
+## Design Apps I Use:
+
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 
