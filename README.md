@@ -62,7 +62,8 @@ Owner & CEO of RedWine.com.
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 
-
+## Technologies I Use
+kkkkkk
 
 
 ---
