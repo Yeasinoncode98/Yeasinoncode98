@@ -75,7 +75,7 @@ Owner & CEO of RedWine.com.
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Parallel Space](https://img.shields.io/badge/Parallel-000000?style=for-the-badge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 
