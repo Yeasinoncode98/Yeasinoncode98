@@ -96,7 +96,7 @@ Owner & CEO of RedWine.com.
 
 ## Featured Project
 
-[![Projects Showcase](https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Projects-Showcase&theme=dark)](https://github.com/Yeasinoncode98/Projects-Showcase)
+[![Showcase_of _Projects](https://github.com/Yeasinoncode98/Showcase_of_Projects)
 
 
 
