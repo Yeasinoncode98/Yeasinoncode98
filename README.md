@@ -94,9 +94,7 @@ Owner & CEO of RedWine.com.
 
 ---
 
-## Featured Project
 
-[![Showcase_of _Projects](https://github.com/Yeasinoncode98/Showcase_of_Projects)
 
 
 
