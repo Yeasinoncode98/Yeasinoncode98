@@ -93,14 +93,6 @@ Owner & CEO of RedWine.com.
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Yeasinoncode98&theme=dark&hide_border=true)
-
-
-
-
 
 
 # BEST REPO
