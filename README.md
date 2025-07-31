@@ -97,8 +97,9 @@ Owner & CEO of RedWine.com.
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeasinoncode98&theme=dark&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Yeasinoncode98&show_icons=true&theme=react&hide_border=true&count_private=true" />
 </p>
+
 
 
 
