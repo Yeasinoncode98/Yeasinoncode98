@@ -86,6 +86,8 @@ Owner & CEO of RedWine.com.
 ![Parallel Space](https://img.shields.io/badge/Parallel-000000?style=for-the-badge&logoColor=white)
 [![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
 
+## Competitive Programming Platform i Use:
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue?style=for-the-badge)](https://www.beecrowd.com.br/judge/en/profile/yeasinoncode98)
 
 
 
