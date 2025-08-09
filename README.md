@@ -87,7 +87,6 @@ Owner & CEO of RedWine.com.
 [![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
 
 ## Competitive Programming Platform i Use:
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-1090367-blue?style=for-the-badge)](https://judge.beecrowd.com/en/profile/1090367)
 [![Vjudge](https://img.shields.io/badge/Vjudge-Yeasin487-blue?style=for-the-badge)](https://vjudge.net/user/Yeasin487)
 [![HackerRank](https://img.shields.io/badge/HackerRank-251_15_487-blue?style=for-the-badge)](https://www.hackerrank.com/profile/251_15_487)
 
