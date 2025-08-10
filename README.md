@@ -108,7 +108,7 @@ Owner & CEO of RedWine.com.
 ## Total Time 
 
 <img src="https://wakatime.com/badge/user/f8bc9af4-5484-40d7-9031-ac2c052f5900.svg" alt="WakaTime Badge" width="200" />
-
+<a href="https://wakatime.com/@f8bc9af4-5484-40d7-9031-ac2c052f5900"><img src="https://wakatime.com/badge/user/f8bc9af4-5484-40d7-9031-ac2c052f5900.svg" alt="Total time coded since Jul 14 2025" /></a>
 
 ## Time Graph
 
