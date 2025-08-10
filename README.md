@@ -19,6 +19,8 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
+![WakaTime](https://wakatime.com/badge/user/RedWine1207.svg)
+
 
 
 
