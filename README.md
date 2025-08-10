@@ -19,7 +19,7 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
-![WakaTime](https://wakatime-readme.vercel.app/api/badge/uuid/waka_60ed44e3-473b-43b2-b584-9698efde8fdd)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Yeasinoncode98)
 
 
 
