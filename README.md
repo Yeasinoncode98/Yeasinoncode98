@@ -19,7 +19,6 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Yeasinoncode98)
 
 
 
