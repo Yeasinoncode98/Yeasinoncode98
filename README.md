@@ -19,6 +19,8 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
+![WakaTime](https://wakatime.com/badge/user/Yeasinoncode98.svg)
+
 
 Owner & CEO of RedWine.com.
 
