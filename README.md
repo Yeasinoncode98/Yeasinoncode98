@@ -19,7 +19,7 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
-![Coding activity graph](https://wakatime.com/share/github/Yeasinoncode98.svg)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Yeasinoncode98)
 
 
 
