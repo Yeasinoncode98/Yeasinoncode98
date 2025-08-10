@@ -105,9 +105,9 @@ Owner & CEO of RedWine.com.
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-## Most Used Languages :
+## Total Time 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeasinoncode98)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://wakatime.com/badge/user/f8bc9af4-5484-40d7-9031-ac2c052f5900.svg" alt="WakaTime Badge" width="200" />
 
 
 ## Time Graph
