@@ -19,7 +19,7 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yeasinoncode98&color=brightgreen)
-![WakaTime](https://wakatime.com/badge/user/RedWine1207.svg)
+
 
 
 
@@ -109,6 +109,10 @@ Owner & CEO of RedWine.com.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeasinoncode98)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Time Graph
+
+![WakaTime Stats](https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg)
 
 
 
