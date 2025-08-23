@@ -112,6 +112,7 @@ Owner & CEO of RedWine.com.
 
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Pixso](https://img.shields.io/badge/Pixso-Design%20Tool-FF6F61?style=for-the-badge&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-000000?style=for-the-badge&logo=gimp&logoColor=white)
 
 
