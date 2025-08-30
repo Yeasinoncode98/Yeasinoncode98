@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">Practicing Programmer | Frontend MERN stack developer | Bug-Solver | Speed Learner</h3>
+<h3 align="center">Practicing Programmer | Frontend Developer | Bug-Solver | Speed Learner</h3>
 
 <div align="center">
 
