@@ -180,4 +180,21 @@ Owner & CEO of RedWine.com.
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
 </p>
 
+// Function to get current date and time in Bangladesh (GMT+6)
+function bangladeshTime() {
+  const options = { 
+    timeZone: 'Asia/Dhaka', 
+    hour12: false, 
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', second: '2-digit'
+  };
+  
+  const formatter = new Intl.DateTimeFormat('en-GB', options);
+  return formatter.format(new Date());
+}
+
+// Display the time in console
+console.log("Current Bangladesh Time: " + bangladeshTime());
+
+
 
