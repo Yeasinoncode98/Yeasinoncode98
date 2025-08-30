@@ -181,8 +181,18 @@ Owner & CEO of RedWine.com.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=55efc4&center=true&width=500&lines=Bangladesh+Time:+15:47+%7C+GMT%2B6" alt="Bangladesh Time"/>
+  <span id="bangladesh-time"></span>
+  <script>
+    function updateTime() {
+      const options = { timeZone: 'Asia/Dhaka', hour12: false };
+      const time = new Date().toLocaleTimeString('en-GB', options);
+      document.getElementById('bangladesh-time').textContent = time;
+    }
+    setInterval(updateTime, 1000);
+    updateTime(); // Initial call to display time immediately
+  </script>
 </p>
+
 
 
 
