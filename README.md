@@ -180,18 +180,7 @@ Owner & CEO of RedWine.com.
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
 </p>
 
-<p align="center">
-  <span id="bangladesh-time"></span>
-  <script>
-    function updateTime() {
-      const options = { timeZone: 'Asia/Dhaka', hour12: false };
-      const time = new Date().toLocaleTimeString('en-GB', options);
-      document.getElementById('bangladesh-time').textContent = time;
-    }
-    setInterval(updateTime, 1000);
-    updateTime(); // Initial call to display time immediately
-  </script>
-</p>
+
 
 
 
