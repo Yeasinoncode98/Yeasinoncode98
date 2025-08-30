@@ -43,7 +43,8 @@ Owner & CEO of RedWine.com.
 
 - 📄 Know more about me: [My Website](https://redwine1207.my.canva.site/)
   
-- ⏰ Working With : https://wakatime.com/@RedWine1207
+- ⏱️ **Track My Coding Activity:** [WakaTime Profile](https://wakatime.com/@RedWine1207)
+
 
 
 <h3 align="center">Connect with me</h3>
