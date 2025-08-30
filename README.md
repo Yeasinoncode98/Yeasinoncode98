@@ -63,7 +63,7 @@ Owner & CEO of RedWine.com.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## FrameWorks i Know With Plugins:
+## FrameWorks i Know With Plugins and Manipulation:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-Tailwind%20Plugin-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Preline UI](https://img.shields.io/badge/Preline%20UI-Tailwind%20Plugin-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
