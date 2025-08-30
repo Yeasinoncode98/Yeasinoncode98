@@ -67,6 +67,8 @@ Owner & CEO of RedWine.com.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-Tailwind%20Plugin-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Preline UI](https://img.shields.io/badge/Preline%20UI-Tailwind%20Plugin-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 
