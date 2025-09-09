@@ -16,19 +16,26 @@
 
 <h3 align="center">Practicing Programmer | Frontend Developer | Bug-Solver | Speed Learner</h3>
 
-## 🎓 Academics
-
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-blue?style=for-the-badge&logo=university&logoColor=white" alt="BSc" />
-  <img src="https://img.shields.io/badge/HSC-Science-green?style=for-the-badge&logo=education&logoColor=white" alt="HSC" />
-  <img src="https://img.shields.io/badge/SSC-Science-orange?style=for-the-badge&logo=education&logoColor=white" alt="SSC" />
+  ## 🎓 Academics
 </p>
 
-<p align="center">
-  - **B.Sc in Computer Science** | Daffodil International University | 2025 (Running)  
-  - **Higher Secondary Certificate (HSC)** | Noapara Model College | 2022  
-  - **Secondary School Certificate (SSC)** | Southern English School & College | 2020
-</p>
+<div align="center">
+
+  <p>
+    <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-blue?style=for-the-badge&logo=university&logoColor=white" alt="BSc" />
+    <img src="https://img.shields.io/badge/HSC-Science-green?style=for-the-badge&logo=education&logoColor=white" alt="HSC" />
+    <img src="https://img.shields.io/badge/SSC-Science-orange?style=for-the-badge&logo=education&logoColor=white" alt="SSC" />
+  </p>
+
+  <p>
+    - **B.Sc in Computer Science** | Daffodil International University | 2025 (Running) <br>
+    - **Higher Secondary Certificate (HSC)** | Noapara Model College | 2022 <br>
+    - **Secondary School Certificate (SSC)** | Southern English School & College | 2020
+  </p>
+
+</div>
+
 
 
 <div align="center">
