@@ -18,7 +18,7 @@
 
 <p>&nbsp;</p>
 <p align="center" class="mt-5">
-  ## 🎓 Academics
+   🎓 Academics
 </p>
 
 <div align="center">
