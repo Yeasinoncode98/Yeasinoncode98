@@ -17,6 +17,7 @@
 <h3 align="center">Practicing Programmer | Frontend Developer | Bug-Solver | Speed Learner</h3>
 
 ## 🎓 Academics
+
 <p align="center">
   <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-blue?style=for-the-badge&logo=university&logoColor=white" alt="BSc" />
   <img src="https://img.shields.io/badge/HSC-Science-green?style=for-the-badge&logo=education&logoColor=white" alt="HSC" />
@@ -28,6 +29,7 @@
   - **Higher Secondary Certificate (HSC)** | Noapara Model College | 2022  
   - **Secondary School Certificate (SSC)** | Southern English School & College | 2020
 </p>
+
 
 <div align="center">
 
