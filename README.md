@@ -16,6 +16,7 @@
 
 <h3 align="center">Practicing Programmer | Frontend Developer | Bug-Solver | Speed Learner</h3>
 
+<p>&nbsp;</p>
 <p align="center" class="mt-5">
   ## 🎓 Academics
 </p>
