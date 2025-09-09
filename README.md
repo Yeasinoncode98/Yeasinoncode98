@@ -203,7 +203,7 @@ Owner & CEO of RedWine.com.
   <a href="https://github.com/Yeasinoncode98" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️(love)+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
 </p>
 
 
