@@ -46,8 +46,11 @@
 
 
 
-
+<p align="center">
 Owner & CEO of RedWine.com.
+</p>
+
+
 
 </div>
 
