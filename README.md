@@ -30,9 +30,9 @@
   </p>
 
   <p align="center">
-    - **B.Sc in Computer Science** | Daffodil International University | 2025 (Running) <br>
-    - **Higher Secondary Certificate (HSC)** | Noapara Model College | 2022 <br>
-    - **Secondary School Certificate (SSC)** | Southern English School & College | 2020
+    B.Sc in Computer Science | Daffodil International University | 2025 (Running) <br>
+    Higher Secondary Certificate (HSC) | Noapara Model College | 2022 <br>
+    Secondary School Certificate (SSC) | Southern English School & College | 2020
   </p>
 
 </div>
