@@ -80,7 +80,7 @@ Owner & CEO of RedWine.com.
   <a href="https://github.com/Yeasinoncode98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-## i know and working with these:
+## I know and working with these:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -90,7 +90,7 @@ Owner & CEO of RedWine.com.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## FrameWorks i Know With Plugins and Manipulation:
+## FrameWorks I Know With Plugins and Manipulation:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-Tailwind%20Plugin-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Preline UI](https://img.shields.io/badge/Preline%20UI-Tailwind%20Plugin-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
