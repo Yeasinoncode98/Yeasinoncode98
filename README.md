@@ -161,9 +161,9 @@ Owner & CEO of RedWine.com.
 
 
 ## Time Graph
-<p align="center">
+
 <img src="https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg" alt="WakaTime Stats" width="400"/>
-</p>
+
 
 
 
@@ -171,12 +171,7 @@ Owner & CEO of RedWine.com.
 
 
 # BEST REPO
-<p align="center">
-
 [![Showcase of Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Showcase_of_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yeasinoncode98/Showcase_of_Projects)
-
-</p>
-
 
 
 ---
