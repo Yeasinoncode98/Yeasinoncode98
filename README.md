@@ -139,6 +139,10 @@ Owner & CEO of RedWine.com.
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Parallel Space](https://img.shields.io/badge/Parallel-000000?style=for-the-badge&logoColor=white)
 [![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
+![Surge](https://img.shields.io/badge/Surge-FF3E00?style=for-the-badge&logo=surge&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## Competitive Programming Platform i Use:
 [![Vjudge](https://img.shields.io/badge/Vjudge-Yeasin487-blue?style=for-the-badge)](https://vjudge.net/user/Yeasin487)
