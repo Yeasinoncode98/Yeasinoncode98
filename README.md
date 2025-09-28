@@ -148,6 +148,7 @@ Owner & CEO of RedWine.com.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-4B5563?style=for-the-badge&logo=flydotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![React Icons - Lucide](https://img.shields.io/badge/React_Icons-Lucide-5A67D8?style=for-the-badge&logo=react&logoColor=white)
 
 
 ## Competitive Programming Platform i Use:
