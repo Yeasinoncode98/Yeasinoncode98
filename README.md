@@ -92,12 +92,13 @@ Owner & CEO of RedWine.com.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## FrameWorks I Know With Plugins and Manipulation:
+## FrameWorks I Know With Plugins and Library:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-Tailwind%20Plugin-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Preline UI](https://img.shields.io/badge/Preline%20UI-Tailwind%20Plugin-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=recharts&logoColor=white)
 
 
 
