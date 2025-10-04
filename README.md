@@ -150,6 +150,10 @@ Owner & CEO of RedWine.com.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![React Icons - Lucide](https://img.shields.io/badge/React_Icons-Lucide-5A67D8?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-4A90E2?style=for-the-badge&logo=react-toastify&logoColor=white)
+![React Tabs](https://img.shields.io/badge/React_Tabs-09D3AC?style=for-the-badge&logo=react&logoColor=white)
+![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge&logo=sweetalert&logoColor=w)
 
 
 ## Competitive Programming Platform i Use:
