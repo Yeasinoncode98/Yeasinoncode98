@@ -183,19 +183,15 @@ Owner & CEO of RedWine.com.
 
 # 📊 GitHub Stats
 
-<p align="center">
+# 📊 GitHub Stats
+
+<div align="left">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Yeasinoncode98&theme=midnight-purple&hide_border=false" 
     alt="GitHub Streak Stats" 
     width="70%"
   />
-</p>
-
-<br>
-
-
-
-
+</div>
 
 
 # BEST REPO
