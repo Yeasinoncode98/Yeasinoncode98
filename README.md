@@ -180,17 +180,19 @@ Owner & CEO of RedWine.com.
 
 <img src="https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg" alt="WakaTime Stats" width="400"/>
 
-## Stats of Github 
 
 # 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; height: 80vh;">
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Yeasinoncode98&theme=midnight-purple&hide_border=false" 
     alt="GitHub Streak Stats" 
     width="70%"
   />
-</div>
+</p>
+
+<br>
+
 
 
 
