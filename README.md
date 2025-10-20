@@ -181,9 +181,8 @@ Owner & CEO of RedWine.com.
 <img src="https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg" alt="WakaTime Stats" width="400"/>
 
 
-# 📊 GitHub Stats
 
-# 📊 GitHub Stats
+# 📊 Usage Stats of Github
 
 <div align="left">
   <img 
