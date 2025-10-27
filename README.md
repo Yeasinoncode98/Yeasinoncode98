@@ -153,7 +153,9 @@ Owner & CEO of RedWine.com.
 ![React Tabs](https://img.shields.io/badge/React_Tabs-09D3AC?style=for-the-badge&logo=react&logoColor=white)
 ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge&logo=sweetalert&logoColor=w)
-
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF2C55?style=for-the-badge&logo=framer&logoColor=white)
+![Swiper.js](https://img.shields.io/badge/Swiper.js-007AFF?style=for-the-badge&logo=swiper&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-4B0082?style=for-the-badge&logoColor=white)
 
 ## Competitive Programming Platform i Use:
 [![Vjudge](https://img.shields.io/badge/Vjudge-Yeasin487-blue?style=for-the-badge)](https://vjudge.net/user/Yeasin487)
