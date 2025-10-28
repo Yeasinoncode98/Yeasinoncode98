@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/rfM8knqP/Whats-App-Image-2025-06-10-at-03-42-24-c4b60197.jpg" alt="Yeasin Arafat Banner" width="800" />
+  <img src="https://i.imgur.com/q2ERhJX.jpg" alt="Yeasin Arafat Coding" width="800" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+It's+me+Yeasin+Arafat+✨.&center=true&width=500&height=50" />
