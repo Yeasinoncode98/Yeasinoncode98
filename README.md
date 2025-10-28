@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/GQfXbBsL/Whats-App-Image-2025-10-29-at-02-00-07-20559e20.jpg" width="800" alt="Yeasin Arafat Coding"/>
+  <img src="https://i.ibb.co/GQfXbBsL/Whats-App-Image-2025-10-29-at-02-00-07-20559e20.jpg" alt="Yeasin Arafat Coding" />
 </p>
+
 
 
 
