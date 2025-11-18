@@ -2,15 +2,27 @@
   <img src=https://i.postimg.cc/7YmFBPtC/githubbannerr.png" alt="Banner" width="100%" />
 </p>
 
+<!-- ░░░░░░░░░░░░░░░░░ INTRO TITLE + TYPE ANIMATION ░░░░░░░░░░░░░░░░░ -->
+<h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">YEASIN ARAFAT</span></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+Wish+you+a+warm+welcome+to+my+Github+Profile+✨.&center=true&width=800&height=60" />
+</p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+It's+me+Yeasin+Arafat+✨.&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=FF6347&center=true&vCenter=true&width=750&lines=Mern+Stack+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+MongoDB+%7C+FireBase+Expert;Crafting+Modern+Web+Experiences" />
 </p>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20hope%20your%20day%20is%20going%20well.;Have%20a%20coffee%20and%20enjoy%20my%20profile%20%E2%98%95%F0%9F%98%8A.&center=true&width=700&height=50&color=55efc4" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</p>
 
 <h3 align="center">Practicing Programmer | Frontend Developer | Bug-Solver | Speed Learner</h3>
 
@@ -55,22 +67,29 @@ Owner & CEO of RedWine.com.
 
 </div>
 
- ## About Me 
+## About Me
 
-🔭 Hi, I'm Yeasin Arafat!
- I'm a passionate MERN Stack Developer who specializes in building dynamic and responsive web applications. With a strong background in MongoDB, Express, React, and Node.js, I create interactive websites with   beautiful designs and seamless user experiences.
+👋 **Hi, I'm Yeasin Arafat!**  
+I'm a passionate **MERN Stack Developer** specializing in creating dynamic, responsive web applications. With a strong background in **MongoDB**, **Express**, **React**, and **Node.js**, I build interactive websites that feature beautiful designs and seamless user experiences.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yeasinoncode98/Showcase_of_Projects)
+🌟 **What I Do:**  
+- 🔧 I craft **full-stack applications** from scratch with a focus on usability and performance.
+- 🎨 I design **UI/UX** to enhance user interaction and make digital experiences smoother.
+- 🧠 I integrate **AI** and other cool features into my projects to make them more intelligent and interactive.
 
-- 💬 Ask me about *C, C++, JavaScript, HTML, CSS, EXPRESS JS, NODE JS, REACT JS and Others*
+---
 
-- 📫 How to reach me: devoncode98@gmail.com
+### 🔍 Find Me Around:
+- 📂 **All My Projects:** [GitHub Showcase](https://github.com/Yeasinoncode98/Showcase_of_Projects)
+- 💬 **Ask Me About:** *C, C++, JavaScript, HTML, CSS, Express.js, Node.js, React.js, and More!*
+- 📧 **Email Me:** [devoncode98@gmail.com](mailto:devoncode98@gmail.com)
+- 💼 **Check Out My Portfolio:** [Portfolio](https://mohonsharif.com/yeasinarafat-portfolio)
+- 🌐 **More About Me:** [My Website](https://redwine1207.my.canva.site/)
 
-- 💼 See me at here [Portfolio](https://mohonsharif.com/yeasinarafat-portfolio)
+---
 
-- 📄 Know more about me: [My Website](https://redwine1207.my.canva.site/)
-  
-- ⏱️ **Track My Activity:** [WakaTime Profile](https://wakatime.com/@RedWine1207)
+### ⏱️ **Track My Activity:**
+- 📊 **WakaTime Profile:** [Track My Coding Activity](https://wakatime.com/@RedWine1207)
 
 
 
