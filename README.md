@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://i.postimg.cc/GmD4FfqR/bannergithub.png" alt="Banner" width="100%" />
+  <img src=https://i.postimg.cc/Y0mH55vn/Purple-and-Black-Modern-Software-Developer-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
 
