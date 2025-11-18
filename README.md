@@ -79,6 +79,12 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 
 ---
 
+### 🔥 What I’m Doing Now
+- 🚀 Sharpening my skills in **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, **MongoDB**, and **MySQL**
+- 📚 Exploring best practices for **frontend performance, responsive design, and UI/UX patterns**
+
+---
+
 ### 🔍 Find Me Around:
 - 📂 **All My Projects:** [GitHub Showcase](https://github.com/Yeasinoncode98/Showcase_of_Projects)
 - 💬 **Ask Me About:** *C, C++, JavaScript, HTML, CSS, Express.js, Node.js, React.js, and More!*
@@ -115,7 +121,7 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 
 ## 🗄️ DATABASE :
 
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)]()
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 
 ## 🎨 CSS FRAMEWORKS & UI LIBRARIES :
@@ -236,22 +242,28 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 
 ## Time Graph
 
-<img src="https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg" alt="WakaTime Stats" width="400"/>
+<p align="center">
+  <img src="https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg" alt="WakaTime Stats" width="400"/>
+</p>
 
+---
+
+<h1 align="left">🚀 BEST REPO</h1>
+<p align="center">
+  <a href="https://github.com/Yeasinoncode98/Showcase_of_Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Showcase_of_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Showcase of Projects" />
+  </a>
+</p>
 
 # 📊 Usage Stats of Github
 
-<div align="left">
+<div align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Yeasinoncode98&theme=midnight-purple&hide_border=false" 
     alt="GitHub Streak Stats" 
     width="70%"
   />
 </div>
-
-
-# BEST REPO
-[![Showcase of Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Showcase_of_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yeasinoncode98/Showcase_of_Projects)
 
 ---
 
