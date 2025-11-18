@@ -124,6 +124,7 @@ Owner & CEO of RedWine.com.
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=recharts&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF6A3D?style=for-the-badge&logo=reactquery&logoColor=white)
+![Axios Instance](https://img.shields.io/badge/Axios_Instance-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-4B0082?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunder&logoColor=white)
