@@ -60,9 +60,10 @@ Owner & CEO of RedWine.com.
 
 </div>
 
-- 🔭 I’m a Passionate Mern-Stack-Developer Creating Interective Websites With Cool Designs and AI Integrity .
+ ## About Me 
 
-- 🌱 I’m currently learning new web technologies and problem-solving skills
+🔭 Hi, I'm Yeasin Arafat!
+ I'm a passionate MERN Stack Developer who specializes in building dynamic and responsive web applications. With a strong background in MongoDB, Express, React, and Node.js, I create interactive websites with   beautiful designs and seamless user experiences.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yeasinoncode98/Showcase_of_Projects)
 
@@ -86,21 +87,20 @@ Owner & CEO of RedWine.com.
 </p>
 
 ## 💻 CORE PROGRAMMING LANGUAGES :
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![Languages](https://skillicons.dev/icons?i=c,c++,javascript)]()
+[![Languages](https://skillicons.dev/icons?i=c,cpp,javascript)]()
 
 ## 🌐 WEB TECHNOLOGIES :
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![HTML](https://skillicons.dev/icons?i=html)]()
+[![CSS](https://skillicons.dev/icons?i=css)]()
+[![React](https://skillicons.dev/icons?i=react)]()
+[![Express](https://skillicons.dev/icons?i=express)]()
+[![Node.js](https://skillicons.dev/icons?i=nodejs)]()
+
 
 ## 🗄️ DATABASE :
 
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)]()
+
 
 ## 🎨 CSS FRAMEWORKS & UI LIBRARIES :
 
