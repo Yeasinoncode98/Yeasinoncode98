@@ -90,6 +90,7 @@ Owner & CEO of RedWine.com.
 [![React](https://skillicons.dev/icons?i=react)]()
 [![Express](https://skillicons.dev/icons?i=express)]()
 [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)]()
 
 
 ## 🗄️ DATABASE :
