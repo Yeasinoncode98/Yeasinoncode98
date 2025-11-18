@@ -161,6 +161,7 @@ Owner & CEO of RedWine.com.
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-007AFF?style=for-the-badge&logo=swiper&logoColor=white)
 ![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AOS (Animate On Scroll)](https://img.shields.io/badge/AOS-4D9E9F?style=for-the-badge&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF2C55?style=for-the-badge&logo=framer&logoColor=white)
 
 
 ## 🔧 FAMILIAR TECHNOLOGIES :
