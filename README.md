@@ -1,8 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://i.ibb.co.com/gZGhg2Nh/Purple-and-Black-Modern-Software-Developer-Linked-In-Banner.png" 
-       alt="Yeasin Arafat Coding" 
-       width="100%" />
-</div>
+<p align="center">
+  <img src=https://i.postimg.cc/GmD4FfqR/bannergithub.png" alt="Banner" width="100%" />
+</p>
 
 
 
