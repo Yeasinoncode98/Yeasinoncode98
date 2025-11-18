@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/CxzHjkh4/Whats-App-Image-2025-10-29-at-02-00-07-20559e20.jpg" alt="Yeasin Arafat Coding" />
+  <img src="[https://i.postimg.cc/CxzHjkh4/Whats-App-Image-2025-10-29-at-02-00-07-20559e20.jpg](https://i.ibb.co.com/gZGhg2Nh/Purple-and-Black-Modern-Software-Developer-Linked-In-Banner.png)" alt="Yeasin Arafat Coding" />
 </p>
 
 
