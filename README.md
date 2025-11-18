@@ -60,13 +60,13 @@ Owner & CEO of RedWine.com.
 
 </div>
 
-- 🔭 I’m currently working on Wesbites.
+- 🔭 I’m a Passionate Mern-Stack-Developer Creating Interective Websites With Cool Designs and AI Integrity .
 
 - 🌱 I’m currently learning new web technologies and problem-solving skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yeasinoncode98/Showcase_of_Projects)
 
-- 💬 Ask me about *C, C++, JavaScript, HTML, CSS, EXPRESS JS, NODE JS, REACT JS*
+- 💬 Ask me about *C, C++, JavaScript, HTML, CSS, EXPRESS JS, NODE JS, REACT JS and Others*
 
 - 📫 How to reach me: devoncode98@gmail.com
 
@@ -108,15 +108,27 @@ Owner & CEO of RedWine.com.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-Tailwind%20Plugin-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Preline UI](https://img.shields.io/badge/Preline%20UI-Tailwind%20Plugin-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-1976D2?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-3A1C71?style=for-the-badge&logo=mantine&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-10B981?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless%20UI-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white)
+![Sass/SCSS](https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
 ## ⚛️ REACT ECOSYSTEM & LIBRARIES :
 
 ![React Icons - Lucide](https://img.shields.io/badge/React_Icons-Lucide-5A67D8?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-FFFBF9?style=for-the-badge&logo=react&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-4A90E2?style=for-the-badge&logo=react-toastify&logoColor=white)
 ![React Tabs](https://img.shields.io/badge/React_Tabs-09D3AC?style=for-the-badge&logo=react&logoColor=white)
 ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-FF5E5B?style=for-the-badge&logo=react&logoColor=white)
 
 
 ## 📊 DATA VISUALIZATION & API TOOLS :
@@ -128,6 +140,18 @@ Owner & CEO of RedWine.com.
 ![CORS](https://img.shields.io/badge/CORS-4B0082?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunder&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F7A600?style=for-the-badge&logo=chartjs&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-FF1493?style=for-the-badge&logo=apexcharts&logoColor=white)
+![Victory](https://img.shields.io/badge/Victory-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Nivo](https://img.shields.io/badge/Nivo-2F8555?style=for-the-badge&logo=nivo&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A825?style=for-the-badge&logo=d3.js&logoColor=white)
+![Plotly.js](https://img.shields.io/badge/Plotly.js-006F91?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+## 🗺️ MAPS & GEOLOCATION (New Category)
+![React Leaflet](https://img.shields.io/badge/React_Leaflet-3DAB9E?style=for-the-badge&logo=react&logoColor=white)
+![Google Maps React](https://img.shields.io/badge/Google_Maps_React-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Mapbox GL](https://img.shields.io/badge/Mapbox_GL-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
 
 ## ✨ ANIMATION & INTERACTIVE UI :
@@ -136,6 +160,7 @@ Owner & CEO of RedWine.com.
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF2C55?style=for-the-badge&logo=framer&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-007AFF?style=for-the-badge&logo=swiper&logoColor=white)
 ![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AOS (Animate On Scroll)](https://img.shields.io/badge/AOS-4D9E9F?style=for-the-badge&logo=react&logoColor=white)
 
 
 ## 🔧 FAMILIAR TECHNOLOGIES :
@@ -162,10 +187,7 @@ Owner & CEO of RedWine.com.
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Parallel Space](https://img.shields.io/badge/Parallel-000000?style=for-the-badge&logoColor=white)
 [![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
-
-
-
-
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## ☁️ DEPLOYMENT & HOSTING PLATFORMS - (FIREBASE-AUTH) :
 
@@ -181,16 +203,11 @@ Owner & CEO of RedWine.com.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-
-
-
-
 ## 🏆 COMPETITIVE PROGRAMMING PLATFORMS :
 [![Vjudge](https://img.shields.io/badge/Vjudge-Yeasin487-blue?style=for-the-badge)](https://vjudge.net/user/Yeasin487)
 [![HackerRank](https://img.shields.io/badge/HackerRank-251_15_487-blue?style=for-the-badge)](https://www.hackerrank.com/profile/251_15_487)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-1090367-blue?style=for-the-badge)](https://judge.beecrowd.com/en/profile/1090367)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Yeasin487-blue?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yeasin487)
-
 
 
 ## Design Apps I Use:
@@ -201,12 +218,9 @@ Owner & CEO of RedWine.com.
 ![GIMP](https://img.shields.io/badge/GIMP-000000?style=for-the-badge&logo=gimp&logoColor=white)
 
 
-
-
 ## Time Graph
 
 <img src="https://wakatime.com/share/@RedWine1207/d899477d-a33c-4b4e-b80a-7cf7ce6b185f.svg" alt="WakaTime Stats" width="400"/>
-
 
 
 # 📊 Usage Stats of Github
@@ -220,10 +234,8 @@ Owner & CEO of RedWine.com.
 </div>
 
 
-
 # BEST REPO
 [![Showcase of Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yeasinoncode98&repo=Showcase_of_Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Yeasinoncode98/Showcase_of_Projects)
-
 
 ---
 
