@@ -4,17 +4,12 @@
 
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+It's+me+Yeasin+Arafat+✨.&center=true&width=500&height=50" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20hope%20your%20day%20is%20going%20well.;Have%20a%20coffee%20and%20enjoy%20my%20profile%20%E2%98%95%F0%9F%98%8A.&center=true&width=700&height=50&color=55efc4" />
 </p>
-
-
-
-
 
 
 <h3 align="center">Practicing Programmer | Frontend Developer | Bug-Solver | Speed Learner</h3>
