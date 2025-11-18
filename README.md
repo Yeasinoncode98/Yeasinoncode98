@@ -85,34 +85,57 @@ Owner & CEO of RedWine.com.
   <a href="https://github.com/Yeasinoncode98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-## I know and working with these:
+## 💻 CORE PROGRAMMING LANGUAGES :
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+## 🌐 WEB TECHNOLOGIES :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 🗄️ DATABASE :
+
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## FrameWorks I Know With Plugins and Library:
+## 🎨 CSS FRAMEWORKS & UI LIBRARIES :
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-Tailwind%20Plugin-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Preline UI](https://img.shields.io/badge/Preline%20UI-Tailwind%20Plugin-16A34A?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+## ⚛️ REACT ECOSYSTEM & LIBRARIES :
+
+![React Icons - Lucide](https://img.shields.io/badge/React_Icons-Lucide-5A67D8?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-4A90E2?style=for-the-badge&logo=react-toastify&logoColor=white)
+![React Tabs](https://img.shields.io/badge/React_Tabs-09D3AC?style=for-the-badge&logo=react&logoColor=white)
+![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+
+## 📊 DATA VISUALIZATION & API TOOLS :
+
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=recharts&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF6A3D?style=for-the-badge&logo=reactquery&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-4B0082?style=for-the-badge&logoColor=white)
 
 
+## ✨ ANIMATION & INTERACTIVE UI :
+
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge&logo=sweetalert&logoColor=w)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF2C55?style=for-the-badge&logo=framer&logoColor=white)
+![Swiper.js](https://img.shields.io/badge/Swiper.js-007AFF?style=for-the-badge&logo=swiper&logoColor=white)
+![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-
-
-## Familiar With:
-
+## 🔧 FAMILIAR TECHNOLOGIES :
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -125,25 +148,28 @@ Owner & CEO of RedWine.com.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-
-
-
-
-
-
-## Technologies I Use:
+## 🛠️ DEVELOPMENT TOOLS & EDITORS :
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Parallel Space](https://img.shields.io/badge/Parallel-000000?style=for-the-badge&logoColor=white)
 [![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
+
+
+
+
+
+## ☁️ DEPLOYMENT & HOSTING PLATFORMS - (FIREBASE-AUTH) :
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
 ![Surge](https://img.shields.io/badge/Surge-FF3E00?style=for-the-badge&logo=surge&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -152,17 +178,13 @@ Owner & CEO of RedWine.com.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-4B5563?style=for-the-badge&logo=flydotio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![React Icons - Lucide](https://img.shields.io/badge/React_Icons-Lucide-5A67D8?style=for-the-badge&logo=react&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Toastify](https://img.shields.io/badge/React_Toastify-4A90E2?style=for-the-badge&logo=react-toastify&logoColor=white)
-![React Tabs](https://img.shields.io/badge/React_Tabs-09D3AC?style=for-the-badge&logo=react&logoColor=white)
-![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge&logo=sweetalert&logoColor=w)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF2C55?style=for-the-badge&logo=framer&logoColor=white)
-![Swiper.js](https://img.shields.io/badge/Swiper.js-007AFF?style=for-the-badge&logo=swiper&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-4B0082?style=for-the-badge&logoColor=white)
 
-## Competitive Programming Platform i Use:
+
+
+
+
+
+## 🏆 COMPETITIVE PROGRAMMING PLATFORMS :
 [![Vjudge](https://img.shields.io/badge/Vjudge-Yeasin487-blue?style=for-the-badge)](https://vjudge.net/user/Yeasin487)
 [![HackerRank](https://img.shields.io/badge/HackerRank-251_15_487-blue?style=for-the-badge)](https://www.hackerrank.com/profile/251_15_487)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-1090367-blue?style=for-the-badge)](https://judge.beecrowd.com/en/profile/1090367)
