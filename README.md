@@ -125,6 +125,8 @@ Owner & CEO of RedWine.com.
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=recharts&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF6A3D?style=for-the-badge&logo=reactquery&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-4B0082?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunder&logoColor=white)
 
 
 ## ✨ ANIMATION & INTERACTIVE UI :
