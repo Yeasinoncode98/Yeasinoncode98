@@ -6,7 +6,7 @@
 <h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">YEASIN ARAFAT</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+Wish+you+a+warm+welcome+to+my+Github+Profile+✨.&center=true&width=800&height=60" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+Wish+you+a+warm+welcome+to+my+Github+Profile+✨.&center=true&width=1000&height=60" />
 </p>
 
 
