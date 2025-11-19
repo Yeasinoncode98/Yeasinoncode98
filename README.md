@@ -255,7 +255,7 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
   </a>
 </p>
 
-# 📊 Usage Stats of Github
+# 📊 Streak Count for Github
 
 <div align="center">
   <img 
