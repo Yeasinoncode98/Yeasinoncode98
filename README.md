@@ -337,5 +337,5 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2025+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2026+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
 </p>
