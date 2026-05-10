@@ -55,6 +55,9 @@
 <p align="center">
 <strong>Owner & CEO of RedWine.com</strong>
 </p>
+<p align="center">
+<strong>Lead Software & WebDeveloper of Aurea</strong>
+</p>
 
 ---
 
