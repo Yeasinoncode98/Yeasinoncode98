@@ -84,7 +84,7 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 - 💬 **Ask Me About:** *C, C++, JavaScript, HTML, CSS, Express.js, Node.js, React.js, and More!*
 - 📧 **Email Me:** [devoncode98@gmail.com](mailto:devoncode98@gmail.com)
 - 💼 **Check Out My Portfolio:** [Portfolio](https://mohonsharif.com/yeasinarafat-portfolio)
-- 🌐 **More About Me:** [My Website](https://redwine1207.my.canva.site/)
+- 🌐 **More About Me:** [My Website](https://yeasin-arafat-portfolio-a85d.vercel.app/)
 
 ---
 
