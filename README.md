@@ -95,9 +95,15 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.facebook.com/share/1EKw8yU3LC/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="mailto:devoncode98@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
-  <a href="https://github.com/Yeasinoncode98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/share/1EKw8yU3LC/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+  <a href="mailto:devoncode98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/Yeasinoncode98" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
