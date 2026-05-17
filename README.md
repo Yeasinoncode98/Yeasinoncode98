@@ -56,7 +56,7 @@
 <strong>Owner & CEO of RedWine.com</strong>
 </p>
 <p align="center">
-<strong>Lead Software & WebDeveloper of Aurea</strong>
+<strong>Lead Software & MERN Stack Developer of Aurea</strong>
 </p>
 
 ---
