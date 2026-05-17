@@ -131,7 +131,7 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 ## 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
 </p>
 
 ---
