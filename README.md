@@ -122,7 +122,7 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,next,express,nodejs" />
   </a>
 </p>
 
