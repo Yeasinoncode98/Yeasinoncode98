@@ -58,7 +58,9 @@
 <p align="center">
 <strong>Lead Software & MERN Stack Developer of <a href="https://www.facebook.com/share/1EDWdFvfck/?mibextid=wwXIfr">Aurea</a> <img src="https://flagcdn.com/w20/bd.png" alt="🇧🇩"/></strong>
 </p>
-
+<p align="center">
+<strong>Lead Software & MERN Stack Developer of <a href="https://www.facebook.com/share/1EDWdFvfck/?mibextid=wwXIfr">Aurea</a> <img src="https://flagcdn.com/w20/bd.png" alt="🇧🇩"/></strong>
+</p>
 ---
 
 ## 👋 About Me
