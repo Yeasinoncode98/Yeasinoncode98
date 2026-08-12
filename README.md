@@ -344,6 +344,11 @@ I'm a passionate **MERN Stack Developer** specializing in creating dynamic, resp
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Safin313-stack/Safin313-stack/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Safin313-stack/Safin313-stack/output/github-contribution-grid-snake.svg" />
+</picture>
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%C2%A9+2026+My+Profile+%7C+All+Rights+Reserved+%7C+Made+with+❤️+by+Yeasin+Arafat+🔱⚡;&center=true&width=1000&height=50&color=FF0000&vCenter=true" />
